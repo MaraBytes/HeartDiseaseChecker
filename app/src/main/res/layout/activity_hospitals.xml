@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".Hospitals">
+<ImageView
+    android:layout_width="wrap_content"
+    android:src="@mipmap/coronary_round"
+    android:layout_gravity="center"
+    android:layout_marginTop="20dip"
+    android:layout_height="wrap_content"
+    />
+   <Button
+       android:layout_width="250dp"
+       android:layout_gravity="center"
+       android:layout_marginTop="20dip"
+       android:onClick="privatehos"
+       android:background="@drawable/button_bg"
+       android:layout_height="wrap_content"
+       android:text="Private Hospitals"
+       />
+    <Button
+        android:layout_width="250dp"
+        android:background="@drawable/button_bg"
+        android:onClick="publichos"
+
+        android:text="Government Hospitals"
+        android:layout_marginTop="20dip"
+      android:layout_gravity="center"
+        android:layout_height="wrap_content"
+        />
+</LinearLayout>

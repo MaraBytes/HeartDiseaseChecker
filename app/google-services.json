@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "229968490419",
+    "firebase_url": "https://last-auction-default-rtdb.firebaseio.com",
+    "project_id": "last-auction",
+    "storage_bucket": "last-auction.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229968490419:android:3138913f77a7dd91b7a5c6",
+        "android_client_info": {
+          "package_name": "com.example.apnabazaar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229968490419-skuch02e49bddkl4dthi44vsoh0jj2k2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5knzmF9GKNYWKNw73bloUKEf-HySAslc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229968490419-skuch02e49bddkl4dthi44vsoh0jj2k2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229968490419:android:92f5473570295912b7a5c6",
+        "android_client_info": {
+          "package_name": "com.example.heartdiseasechecker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229968490419-skuch02e49bddkl4dthi44vsoh0jj2k2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5knzmF9GKNYWKNw73bloUKEf-HySAslc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229968490419-skuch02e49bddkl4dthi44vsoh0jj2k2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229968490419:android:20d9b53a8473b6cbb7a5c6",
+        "android_client_info": {
+          "package_name": "in.macrocodes.onlineauctionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229968490419-skuch02e49bddkl4dthi44vsoh0jj2k2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5knzmF9GKNYWKNw73bloUKEf-HySAslc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229968490419-skuch02e49bddkl4dthi44vsoh0jj2k2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

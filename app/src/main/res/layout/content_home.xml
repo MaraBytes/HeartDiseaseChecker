@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_marginTop="60dp"
+    android:orientation="vertical">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:layout_height="wrap_content"
+    >
+    <Button
+        android:layout_width="150dp"
+        android:onClick="hospitals"
+        android:background="@drawable/button_bg"
+        android:text="Hospitals"
+        android:drawableTop="@mipmap/coronary_round"
+        android:layout_marginLeft="20dip"
+        android:layout_height="150dp"
+        />
+    <Button
+        android:layout_width="150dp"
+        android:text="Search"
+        android:onClick="search"
+        android:drawableTop="@mipmap/coronary_round"
+        android:background="@drawable/button_bg"
+        android:layout_marginLeft="40dip"
+        android:layout_height="150dp"
+        />
+</LinearLayout>
+
+<LinearLayout
+android:layout_width="match_parent"
+android:layout_marginTop="20dip"
+android:orientation="horizontal"
+android:layout_height="wrap_content"
+app:layout_constraintStart_toStartOf="parent"
+app:layout_constraintHorizontal_bias="0.5"
+app:layout_constraintEnd_toEndOf="parent">
+
+<Button
+    android:layout_width="150dp"
+    android:text="Symptoms"
+    android:onClick="symptoms"
+    android:drawableTop="@mipmap/coronary_round"
+    android:layout_marginLeft="20dip"
+    android:background="@drawable/button_bg"
+    android:layout_height="150dp"
+    />
+<Button
+    android:layout_width="150dp"
+    android:background="@drawable/button_bg"
+    android:text="treatment"
+    android:drawableTop="@mipmap/coronary_round"
+    android:layout_marginLeft="40dip"
+    android:onClick="treatment"
+    android:layout_height="150dp"
+    />
+</LinearLayout>
+<ImageView
+android:layout_width="200dp"
+android:layout_marginTop="20dip"
+android:src="@mipmap/coronary_round"
+android:layout_gravity="center"
+android:layout_height="200dp"
+    />
+
+</LinearLayout>

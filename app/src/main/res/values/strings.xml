@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Heart Disease Checker</string>
+    <string name="cardyo">Cardiomyopathy refers to conditions that affect your heart muscle. If you have cardiomyopathy,
+        your heart can\'t efficiently pump blood to the rest of your body.
+ As a result, you may experience fatigue, shortness of breath or heart palpitations. Cardiomyopathy gets worse over time.</string>
+    <string name="congenital">Congenital heart disease is a general term for a range of birth defects that affect the normal way the heart works. The term "congenital" means the condition is present from birth.
+Congenital heart disease is one of the most common types of birth defect, affecting up to 8 in every 1,000 babies born in the UK</string>
+    <string name="coronary">Coronary artery disease is caused by plaque buildup in the wall of the arteries that supply blood to the heart (called coronary arteries). Plaque is made up of cholesterol deposits.
+Plaque buildup causes the inside of the arteries to narrow over time. This process is called atherosclerosis.</string>
+    <string name="arthritis">Heart rhythm problems (heart arrhythmias) occur when the electrical impulses that coordinate your heartbeats don\'t work properly, causing your heart to beat too fast, too slow or irregularly.
+Heart arrhythmias (uh-RITH-me-uhs) may feel like a fluttering or racing heart and may be harmless</string>
+    <string name="heart_valve">In heart valve disease, one or more of the valves in your heart doesn\'t work properly. Your heart has four valves that keep blood flowing in the correct direction. In some cases, one or more of the valves don\'t open or close properly.
+This can cause the blood flow through your heart to your body to be disrupted.</string>
+    <string name="pericard">Pericardial disease, or pericarditis, is inflammation of any of the layers of the pericardium.
+The pericardium is a thin tissue sac that surrounds the heart and consists of: Visceral pericardium -- an inner layer that
+envelopes the entire heart.</string>
+</resources>
